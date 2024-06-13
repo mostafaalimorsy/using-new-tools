@@ -1,3 +1,4 @@
 # build packages
 # using melos
-# using shorbird
+# using shorebird
+# using flavor
