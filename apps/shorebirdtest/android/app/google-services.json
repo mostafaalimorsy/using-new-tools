@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438404392237",
+    "project_id": "testcrashlytics-71466",
+    "storage_bucket": "testcrashlytics-71466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438404392237:android:7a2a573a46c47025e39fa4",
+        "android_client_info": {
+          "package_name": "com.example.shorebird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-mm9_s8WlHRSzl3wgbPhbg74KOEuOBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
